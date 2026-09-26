@@ -6,6 +6,7 @@ public class stringbuilder {
     sb.append(" world");
     sb.reverse();
     String result=sb.toString();
+
     System.out.println(result);
 
 }    
